@@ -73,7 +73,7 @@ Challenges:
 - Branch Management
 - Commit Frequency and Message Quality
 - Merge Conflicts
-  Best practises for overcoming challenges
+            Best practises for overcoming challenges
 - Using Pull Requests for Code Reviews
 - Effective Branching Strategy
 - Frequent and Meaningful Commits
